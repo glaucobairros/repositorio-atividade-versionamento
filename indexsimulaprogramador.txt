@@ -1,0 +1,8 @@
+   · git status 
+   · git add index.txt (programador adiciona arquivo modificado na área de staging)
+   · git commit -m (programador salva alterações do arquivo no histórico)
+   · git push origin branch-novo-programador
+   · git checkout -b branch-novo-programador
+   · git merge main
+   · git pull
+   · git remote add origin https://github.com/glaucobairros/repositorio-atividade-versionamento.git
